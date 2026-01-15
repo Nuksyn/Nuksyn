@@ -19,7 +19,7 @@ I specialize in troubleshooting high-load cloud environments, focusing on identi
 | :--- | :--- |
 | **Languages** | Python, Bash, PHP (Debugging), Java (Debugging) |
 | **Web Servers** | Nginx, Apache |
-| **Platform** | Google Cloud Platform (GCP) |
+| **Platform** | Google Cloud Platform (GCP), lxc/incus, RedHat |
 | **Focus Areas** | Process Management, Log Investigation, Automation |
 
 ---
