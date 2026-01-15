@@ -8,7 +8,7 @@ I specialize in troubleshooting high-load cloud environments, focusing on identi
 ### 💻 What I Do
 - **High-Load Troubleshooting:** Identifying and killing resource-heavy processes to prevent server crashes and maintain uptime.
 - **Log Analysis & Debugging:** Investigating Nginx and Apache access logs to pinpoint traffic spikes or poorly optimized code.
-- **Full-Stack Debugging:** Going beyond standard support by debugging PHP and Java issues that cause performance bottlenecks.
+- **Full-Stack Debugging:** Going beyond standard support by debugging PHP and other programming language issues that cause performance bottlenecks.
 - **Workflow Automation:** Building Python and Bash scripts to automate repetitive tasks, like domain information scraping and data gathering.
 
 ---
@@ -17,7 +17,7 @@ I specialize in troubleshooting high-load cloud environments, focusing on identi
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Bash, PHP (Debugging), JavaScript (Debugging) |
+| **Languages** | Python, Bash, PHP (Debugging), JavaScript (Debugging), etc. |
 | **Web Servers** | Nginx, Apache |
 | **Platform** | GCP, lxc/incus, RedHat |
 | **Focus Areas** | Process Management, Log Investigation, Automation |
