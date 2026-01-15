@@ -1,4 +1,4 @@
-# Hi there, I'm Nuksyn 👋
+# Hi there, I'm Nikola 👋
 
 ### 🚀 Technical Support Specialist | Debugging & Automation
 I specialize in troubleshooting high-load cloud environments, focusing on identifying why servers are struggling and taking the necessary actions to restore stability. I bridge the gap between support and development by diving into code-level issues to find root causes.
