@@ -31,11 +31,8 @@ I specialize in troubleshooting high-load cloud environments, focusing on identi
 
 ---
 
-### 📫 Let's Connect
+### Going forward:
 - **Goal:** To move further into automation and technical problem-solving roles.
 - **Fun Fact:** If a task takes me 5 minutes and I have to do it every day, I’ll spend 2 hours writing a script to make it take 5 seconds.
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nuksyn&show_icons=true&theme=tokyonight" alt="Nuksyn's GitHub Stats" />
-</p>
+
