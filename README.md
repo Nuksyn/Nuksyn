@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Nuksyn 👋
 
-<!--
-**Nuksyn/Nuksyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Technical Support Specialist | Debugging & Automation
+I specialize in troubleshooting high-load cloud environments, focusing on identifying why servers are struggling and taking the necessary actions to restore stability. I bridge the gap between support and development by diving into code-level issues to find root causes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+- **High-Load Troubleshooting:** Identifying and killing resource-heavy processes to prevent server crashes and maintain uptime.
+- **Log Analysis & Debugging:** Investigating Nginx and Apache access logs to pinpoint traffic spikes or poorly optimized code.
+- **Full-Stack Debugging:** Going beyond standard support by debugging PHP and Java issues that cause performance bottlenecks.
+- **Workflow Automation:** Building Python and Bash scripts to automate repetitive tasks, like domain information scraping and data gathering.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Bash, PHP (Debugging), Java (Debugging) |
+| **Web Servers** | Nginx, Apache |
+| **Platform** | Google Cloud Platform (GCP) |
+| **Focus Areas** | Process Management, Log Investigation, Automation |
+
+---
+
+### 📈 Currently Working On
+- 🐍 Mastering **Python** for more complex automation and data handling.
+- 🌐 Expanding my knowledge of **Networking** and how it impacts server stability.
+- 🛠️ Developing a library of scripts to make technical support faster and more accurate.
+
+---
+
+### 📫 Let's Connect
+- **Goal:** To move further into automation and technical problem-solving roles.
+- **Fun Fact:** If a task takes me 5 minutes and I have to do it every day, I’ll spend 2 hours writing a script to make it take 5 seconds.
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nuksyn&show_icons=true&theme=tokyonight" alt="Nuksyn's GitHub Stats" />
+</p>
